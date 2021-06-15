@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1592973595 source:c:\users\lenovo\documents\tubes\main.cpp
+	"header.h"
+
+1592972557 c:\users\lenovo\documents\tubes\header.h
+	<iostream>
+
